@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/VantGxG0068/d27c3284-7ba8-43dd-a0d6-4f67eb1bcbee/f2854bd6-c8ea-4218-9a6b-11ad8e0608ca/_apis/work/boardbadge/f640478a-0949-48fa-8526-e53a29fbb6cb)](https://dev.azure.com/VantGxG0068/d27c3284-7ba8-43dd-a0d6-4f67eb1bcbee/_boards/board/t/f2854bd6-c8ea-4218-9a6b-11ad8e0608ca/Microsoft.RequirementCategory)
 
 # Contributing
 
